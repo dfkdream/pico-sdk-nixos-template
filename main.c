@@ -4,8 +4,8 @@
 int main() {
 	stdio_init_all();
 
-    while (true) {
+	while (true) {
 		printf("Hello, world!\n");
-        sleep_ms(1000);
-    }
+		sleep_ms(1000);
+	}
 }
